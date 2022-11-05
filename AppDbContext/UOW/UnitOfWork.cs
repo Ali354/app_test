@@ -33,7 +33,7 @@ namespace AppDbContext.UOW
             _db.Dispose();
         }
 
-        public void SaveChanges()
+        public void SaveChange()
         {
             _db.SaveChanges();
         }

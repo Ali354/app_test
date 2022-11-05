@@ -5717,26 +5717,30 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.EntityFrameworkCore >= 3.1.30",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.30",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.30",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.30"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Baher\\.nuget\\packages\\": {}
+    "C:\\Users\\ALI\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj",
+      "projectUniqueName": "C:\\Users\\ALI\\source\\repos\\app_test\\AppDbContext\\AppDbContext.csproj",
       "projectName": "AppDbContext",
-      "projectPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj",
-      "packagesPath": "C:\\Users\\Baher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\obj\\",
+      "projectPath": "C:\\Users\\ALI\\source\\repos\\app_test\\AppDbContext\\AppDbContext.csproj",
+      "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ALI\\source\\repos\\app_test\\AppDbContext\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Baher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5762,10 +5766,6 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[3.1.30, )"
-          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
@@ -5798,7 +5798,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
