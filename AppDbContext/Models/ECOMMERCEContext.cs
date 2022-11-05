@@ -14,6 +14,8 @@ namespace AppDbContext.Models
         {
         }
 
+
+
         public ECOMMERCEContext(DbContextOptions<ECOMMERCEContext> options)
             : base(options)
         {
