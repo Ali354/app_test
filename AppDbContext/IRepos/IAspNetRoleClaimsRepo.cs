@@ -7,6 +7,6 @@ namespace AppDbContext.IRepos
 {
     public interface IAspNetRoleClaimsRepo : IBaseRepo<Models.AspNetRoleClaims>
     {
-        // comment1
+        // ali mahfod
     }
 }
