@@ -5728,11 +5728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baher\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
+      "projectUniqueName": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj",
       "projectName": "AppDbContext",
-      "projectPath": "C:\\Users\\Baher\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
+      "projectPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj",
       "packagesPath": "C:\\Users\\Baher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baher\\Source\\Repos\\app_test2\\AppDbContext\\obj\\",
+      "outputPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Baher\\AppData\\Roaming\\NuGet\\NuGet.Config",
