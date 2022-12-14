@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj": {}
+    "C:\\Users\\ALI\\Source\\Repos\\app_test2\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj": {
+    "C:\\Users\\ALI\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
+        "projectUniqueName": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
         "projectName": "AppDbContext",
-        "projectPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
-        "packagesPath": "C:\\Users\\Baher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\obj\\",
+        "projectPath": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
+        "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\AppDbContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Baher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ALI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,21 +92,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj": {
+    "C:\\Users\\ALI\\Source\\Repos\\app_test2\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj",
-        "packagesPath": "C:\\Users\\Baher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\obj\\",
+        "projectPath": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\TestApp\\TestApp.csproj",
+        "packagesPath": "C:\\Users\\ALI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Baher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ALI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,8 +124,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj": {
-                "projectPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj"
+              "C:\\Users\\ALI\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj": {
+                "projectPath": "C:\\Users\\ALI\\Source\\Repos\\app_test2\\AppDbContext\\AppDbContext.csproj"
               }
             }
           }
@@ -179,6 +187,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -187,7 +201,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
