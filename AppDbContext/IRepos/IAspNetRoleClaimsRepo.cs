@@ -8,6 +8,6 @@ namespace AppDbContext.IRepos
     public interface IAspNetRoleClaimsRepo : IBaseRepo<Models.AspNetRoleClaims>
     {
         // ali mahfooyyd
-        //baher
+        //baherr
     }
 }
