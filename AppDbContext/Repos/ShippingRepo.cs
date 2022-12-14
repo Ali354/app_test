@@ -8,7 +8,7 @@ namespace AppDbContext.Repos
 {
     class ShippingRepo : BaseRepo<Shipping>, IShippingRepo
     {
-        public ShippingRepo(TestDbContext db) : base(db)
+        public ShippingRepo(ECOMMERCEContext db) : base(db)
         {
 
         }

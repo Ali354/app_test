@@ -1,0 +1,61 @@
+﻿@model List<CategoryAttrViewModel>
+
+@{
+    ViewData["Title"] = "CategoryAttrReadView";
+}
+
+<h1>CategoryAttrReadView</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        @*<tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Attr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Unit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Value)
+            </th>
+            <th></th>
+        </tr>*@
+    </thead>
+    <tbody>
+        
+
+        @foreach (var item in Model)
+        {
+            //item.Attr = _uow. item.AttrId
+            <tr>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Attr.Name)*@
+                    @Html.DisplayFor(modelItem => item.AttrId)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Category.Name)*@
+                    @Html.DisplayFor(modelItem => item.CategoryId)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Unit.Name)*@
+                    @Html.DisplayFor(modelItem => item.UnitId)
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Value.Value)*@
+                    @Html.DisplayFor(modelItem => item.ValueId)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

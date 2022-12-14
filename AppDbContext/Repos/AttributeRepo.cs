@@ -9,7 +9,7 @@ namespace AppDbContext.Repos
 {
     class AttributeRepo : BaseRepo<Models.Attribute>, IAttributeRepo
     {
-        public AttributeRepo(TestDbContext db) : base(db)
+        public AttributeRepo(ECOMMERCEContext db) : base(db)
         {
 
         }

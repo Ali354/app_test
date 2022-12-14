@@ -11,16 +11,55 @@ C:\Users\ASUS\source\repos\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbCon
 C:\Users\ASUS\source\repos\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.dll
 C:\Users\ASUS\source\repos\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.pdb
 C:\Users\ASUS\source\repos\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.genruntimeconfig.cache
-C:\Users\ALI\Desktop\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.deps.json
-C:\Users\ALI\Desktop\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.json
-C:\Users\ALI\Desktop\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.dev.json
-C:\Users\ALI\Desktop\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.dll
-C:\Users\ALI\Desktop\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.pdb
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.AssemblyReference.cache
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfoInputs.cache
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfo.cs
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.CoreCompileInputs.cache
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.dll
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.pdb
-C:\Users\ALI\Desktop\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.genruntimeconfig.cache
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.deps.json
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.json
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.dev.json
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.AssemblyReference.cache
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfoInputs.cache
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfo.cs
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\ALI\Desktop\New folder (2)\TestApp\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.genruntimeconfig.cache
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.deps.json
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.json
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.dev.json
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.AssemblyReference.cache
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfoInputs.cache
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfo.cs
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\ALI\Desktop\New folder (2)\First\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.genruntimeconfig.cache
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.deps.json
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.json
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.dev.json
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.AssemblyReference.cache
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfoInputs.cache
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfo.cs
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\ALI\Desktop\New folder (2)\Second\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.genruntimeconfig.cache
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.deps.json
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.json
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.runtimeconfig.dev.json
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\bin\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.AssemblyReference.cache
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfoInputs.cache
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.AssemblyInfo.cs
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.dll
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.pdb
+C:\Users\Baher\Desktop\5th year\web\Third\AppDbContext\obj\Debug\netcoreapp3.1\AppDbContext.genruntimeconfig.cache

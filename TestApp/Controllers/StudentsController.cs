@@ -14,7 +14,7 @@ namespace TestApp.Controllers
 
         public IActionResult Index()
         {
-            var a = _uow.StudentRepo.GetAll();
+            //var a = _uow.StudentRepo.GetAll();
             ViewBag.Msg = "Hello from Index";
             // ViewData["Message"] = 
 
@@ -34,11 +34,11 @@ namespace TestApp.Controllers
         {
             if (ModelState.IsValid)
             {
-                _uow.StudentRepo.Add(new AppDbContext.Models.Student
-                {
-                    FirstName = "basel",
-                    LastName = "mariam",
-                });
+                //_uow.StudentRepo.Add(new AppDbContext.Models.Student
+                //{
+                //    FirstName = "basel",
+                //    LastName = "mariam",
+                //});
                 _uow.SaveChanges();
             }
             else

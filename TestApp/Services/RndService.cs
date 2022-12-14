@@ -37,8 +37,6 @@ namespace TestApp.Services
 
     public class TransientRnd : ITransientRnd
     {
-
-
         private string _rnd;
 
         public TransientRnd()

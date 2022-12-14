@@ -8,7 +8,7 @@ namespace AppDbContext.Repos
 {
     class CategoryRepo : BaseRepo<Category>, ICategoryRepo
     {
-        public CategoryRepo(TestDbContext db) : base(db)
+        public CategoryRepo(ECOMMERCEContext db) : base(db)
         {
 
         }

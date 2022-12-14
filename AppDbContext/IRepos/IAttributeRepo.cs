@@ -7,6 +7,6 @@ namespace AppDbContext.IRepos
 {
     public interface IAttributeRepo : IBaseRepo<Models.Attribute>
     {
-              //dkdsflshghghg
+
     }
 }

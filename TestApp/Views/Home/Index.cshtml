@@ -1,9 +1,19 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home1 Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <h5 class="display-4">@TempData["Message"]</h5>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <a asp-controller="Category" asp-action="Index">_Categories_</a>
+    <a asp-controller="Product" asp-action="Index">_Products_</a>
+    <a asp-controller="ValueAttr" asp-action="Index">_ValueAttributes_</a>
+    <a asp-controller="Unit" asp-action="Index">-Units_</a>
+    <a asp-controller="Attribute" asp-action="Index">_Atributes_</a>
+    <a asp-controller="CategoryAttr" asp-action="Index">_CategoryAtributes_</a>
+    <a asp-controller="ProductAttr" asp-action="Index">_ProductAtributes_</a>
+    @*<a asp-controller="Category" asp-action="Index">Categories</a>*@
+
 </div>

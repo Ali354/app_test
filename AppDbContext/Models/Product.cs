@@ -11,20 +11,21 @@ namespace AppDbContext.Models
     {
         public Product()
         {
+            Comment = new HashSet<Comment>();
+            ProductAttr = new HashSet<ProductAttr>();
             ProductOrder = new HashSet<ProductOrder>();
-            ValueDate = new HashSet<ValueDate>();
-            ValueInt = new HashSet<ValueInt>();
-            ValueVarchar = new HashSet<ValueVarchar>();
+            Rating = new HashSet<Rating>();
         }
 
         public int Id { get; set; }
         public int CategoryId { get; set; }
         public int Price { get; set; }
+        public int? Dicount { get; set; }
 
         public virtual Category Category { get; set; }
+        public virtual ICollection<Comment> Comment { get; set; }
+        public virtual ICollection<ProductAttr> ProductAttr { get; set; }
         public virtual ICollection<ProductOrder> ProductOrder { get; set; }
-        public virtual ICollection<ValueDate> ValueDate { get; set; }
-        public virtual ICollection<ValueInt> ValueInt { get; set; }
-        public virtual ICollection<ValueVarchar> ValueVarchar { get; set; }
+        public virtual ICollection<Rating> Rating { get; set; }
     }
 }

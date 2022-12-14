@@ -11,16 +11,14 @@ namespace AppDbContext.Models
     {
         public Attribute()
         {
-            ValueDate = new HashSet<ValueDate>();
-            ValueInt = new HashSet<ValueInt>();
-            ValueVarchar = new HashSet<ValueVarchar>();
+            CategoryAttr = new HashSet<CategoryAttr>();
+            ProductAttr = new HashSet<ProductAttr>();
         }
 
         public int Id { get; set; }
         public string Name { get; set; }
 
-        public virtual ICollection<ValueDate> ValueDate { get; set; }
-        public virtual ICollection<ValueInt> ValueInt { get; set; }
-        public virtual ICollection<ValueVarchar> ValueVarchar { get; set; }
+        public virtual ICollection<CategoryAttr> CategoryAttr { get; set; }
+        public virtual ICollection<ProductAttr> ProductAttr { get; set; }
     }
 }

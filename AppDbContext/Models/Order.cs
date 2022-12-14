@@ -15,14 +15,15 @@ namespace AppDbContext.Models
         }
 
         public int Id { get; set; }
-        public int CustomerId { get; set; }
+        public int UserId { get; set; }
         public DateTime OrderDate { get; set; }
         public byte IsPaid { get; set; }
         public int ShippingId { get; set; }
         public int Price { get; set; }
+        public string State { get; set; }
 
-        public virtual Customer Customer { get; set; }
         public virtual Shipping Shipping { get; set; }
+        public virtual AspNetUsers User { get; set; }
         public virtual ICollection<ProductOrder> ProductOrder { get; set; }
     }
 }

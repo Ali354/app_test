@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baher\\Source\\Repos\\app_test\\TestApp\\TestApp.csproj": {}
+    "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj": {
+    "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj",
+        "projectUniqueName": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
         "projectName": "AppDbContext",
-        "projectPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj",
+        "projectPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj",
         "packagesPath": "C:\\Users\\Baher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\obj\\",
+        "outputPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Baher\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,22 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -76,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Baher\\Source\\Repos\\app_test\\TestApp\\TestApp.csproj": {
+    "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baher\\Source\\Repos\\app_test\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\TestApp\\TestApp.csproj",
+        "projectPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\Baher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\TestApp\\obj\\",
+        "outputPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Baher\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +116,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj": {
-                "projectPath": "C:\\Users\\Baher\\Source\\Repos\\app_test\\AppDbContext\\AppDbContext.csproj"
+              "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj": {
+                "projectPath": "C:\\Users\\Baher\\source\\repos\\app_test2\\AppDbContext\\AppDbContext.csproj"
               }
             }
           }
@@ -116,6 +132,18 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.30, )"
@@ -135,6 +163,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.30, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [

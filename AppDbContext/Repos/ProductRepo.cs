@@ -8,7 +8,7 @@ namespace AppDbContext.Repos
 {
     class ProductRepo : BaseRepo<Product>, IProductRepo
     {
-        public ProductRepo(TestDbContext db) : base(db)
+        public ProductRepo(ECOMMERCEContext db) : base(db)
         {
 
         }
